@@ -1,3 +1,5 @@
+huge thanks to d8vela / pymol_scripts
+
 # step 1: link .pymolrc anywhere else (aka home dir) to this pymolrc file
 ln -s ~/scripts/python_scripts/pymol_scripts/pymolrc .pymolrc
 
@@ -7,5 +9,5 @@ alias bam='pymol -d bam'
 
 # step 3: how to set up paths "/path/to/home/scripts/python_scripts/pymol_scripts" 
 
-# add new pml scripts to pymolrc lines
-# add python scripts into pymol_scripts followed by reference in --init--pymol doc
+add new pml scripts to pymolrc lines
+add python scripts into pymol_scripts followed by reference in --init--pymol doc
